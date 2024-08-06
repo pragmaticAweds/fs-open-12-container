@@ -1,0 +1,6 @@
+services:
+  app:
+    image: todo-express-be
+    build: .
+    ports:
+      - 3000:3000
