@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 
 mongo_data
+redis_data
 
 # Runtime data
 pids
